@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the most Christian King, Louis the XIIIth. [sic] King of France and Navarre. Declaring the reasons wherefore His Majesty hath prohibited all trade with England Also that he hath given commission to raise an army for the assistance of the King of England.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88569</idno>
+            <idno type="STC">Wing L3108B</idno>
+            <idno type="STC">Thomason E574_2</idno>
+            <idno type="STC">ESTC R204584</idno>
+            <idno type="EEBO-CITATION">99896100</idno>
+            <idno type="PROQUEST">99896100</idno>
+            <idno type="VID">154051</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154051)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2395:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the most Christian King, Louis the XIIIth. [sic] King of France and Navarre. Declaring the reasons wherefore His Majesty hath prohibited all trade with England Also that he hath given commission to raise an army for the assistance of the King of England.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The declaration is actually by Louis XIV.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 18".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  France --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+               <term>France --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154051:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <pb facs="tcp:154051:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <p>A DECLARATION OF THE MOST CHRISTIAN KING, <hi>LOVIS</hi> THE XIII<hi rend="sup">th</hi>. King of <hi>FRANCE</hi> and <hi>NAVARRE.</hi> DECLARING The Reaſons wherefore His MAJESTY hath prohibited all Trade with <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>ALSO</hi> That He hath given Commiſſion to raiſe an Army for the Aſſiſtance of the <hi>KING</hi> of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154051:2"/>
+            <!-- PDF PAGE 59 -->
+            <pb n="1" facs="tcp:154051:2"/>
+            <!-- PDF PAGE 59 -->
+            <head>A DECLARATION of the moſt Chriſtian King, <hi>LOVIS</hi> the <hi>XIII.</hi> KING of <hi>FRANCE,</hi> and <hi>NAVARRE.</hi>
+            </head>
+            <opener>
+               <signed>Lodovicus Rex.</signed>
+            </opener>
+            <p>WHereas about eight yeares ſince, a party of tu<g ref="char:EOLhyphen"/>multuous and diſcontented perſons, abuſing the name and priviledge of Parliament, by fair and ſpecious pretences, and the aſſiſtance of the riotous City of <hi>London,</hi> drew the Subjects of <hi>England</hi> into a moſt violent and bloody Rebellion againſt their naturall Leige Lord, our deare and Royall Uncle, <hi>Charles</hi> the Firſt, King of Great <hi>Britaine</hi> and <hi>Ireland,</hi> of moſt bleſſed and pious memory, which they carryed on with implacable hatred, and indefa<g ref="char:EOLhyphen"/>tigable deviliſh policies, purſuing all that did oppoſe them with blood and rapine, and wading up to the ankles and neck, through a whole red Sea of humane and Country bloud, to the accompliſhment of their execrable and prodi<g ref="char:EOLhyphen"/>gious deſignes: Which having fully compaſſed, by getting His Majeſties Sacred Perſon into their power; after a moſt inhumane manner they hurry him from one Priſon to ano<g ref="char:EOLhyphen"/>ther, continually perplexing him with amphibolous Propo<g ref="char:EOLhyphen"/>ſitions, ſuch as neither in conſcience became a Chriſtian, nor in honour a King to grant. At length with Kiſſes and All-hailes in the fore-front of their Treaſon, they invite His Majeſty to a Perſonall Treaty; who to manifeſt his paſſio<g ref="char:EOLhyphen"/>nate deſire to peace, ſpread His Royall Selfe into acts of Grace and Favour; going beyond all His Predeceſſors in munificent Conceſſions: Yet even when he had yeelded be<g ref="char:EOLhyphen"/>yond their hope and expectation, and ſurrendred His moſt indiſputable Rights and Prerogatives into their hands: with malice as inexorable as the grave, deep and bottomleſſe as hell, they abruptly break off, and by force of Armes drag him to the Bar; where Vaſſals took upon them to judge
+<pb facs="tcp:154051:3"/>
+               <!-- PDF PAGE 60 -->
+               <pb facs="tcp:154051:3"/>
+               <!-- PDF PAGE 60 -->
+               <pb n="2" facs="tcp:154051:4"/>
+               <!-- PDF PAGE 61 -->their Soveraigne, and call him to an accompt, who owed an accompt to none but God alone, and having Blaſphe<g ref="char:EOLhyphen"/>mouſly upbrayded him with the unjuſt infamies of Tyrant, Traytour, and Murderer; and ſufficiently ſported them<g ref="char:EOLhyphen"/>ſelves with ſcorne and contempt, after a ſmall intervall of time, in Triumph they convey him to the Scaffold, which in aggravation of his ſorrow, they had prepared at the en<g ref="char:EOLhyphen"/>trance into his Royall Pallace, where in the ſight of his Sub<g ref="char:EOLhyphen"/>jects they committed a moſt Barbarous Aſſaſſination upon his Sacred Perſon, by ſevering his Royall Head from his Body, by the hands of the Common Hang-man; a pro<g ref="char:EOLhyphen"/>dition without a match, and ſuch as hath filled even the ve<g ref="char:EOLhyphen"/>ry Souls of Heathens with horrour and amazement: For it was the moſt nefarious, facinorous, flagitious and incogi<g ref="char:EOLhyphen"/>table act of Perſons neither generous, for there was no drop of ingenious bloud in them; Nor men, for they were for<g ref="char:EOLhyphen"/>ſaken of humanity, and had loſt the Bowels of manly com<g ref="char:EOLhyphen"/>paſſion; Nor doggs, unleſſe of the Brood of <hi>Cerberus;</hi> nor Tygers, nor Panthers, nor ravening Woolves, nor Shee<g ref="char:EOLhyphen"/>beares, nor any thing but the moſt unnaturall, ſtrange, very incarnated and tranſanimated Devils, that ever uſurpt hu<g ref="char:EOLhyphen"/>mane ſhape, to the vexatious torment and deſtruction of mankind: Nor have theſe ſponges of bloud yet ſuckt their fill, but with implacable Malice they yet purſue his Royall Iſſue, and by force of Armes withhold from them their In<g ref="char:EOLhyphen"/>dubitate and ſucceſſive Right, and have ſolemnly Proclaim<g ref="char:EOLhyphen"/>ed them Traytours in the chiefe ſtreets of that Kingdomes Metropolis, and all other Cities and Corporations, and that it ſhall be lawfull for any man to kill them, wherever they ſhall meet them within the limits of thoſe Territories as Spies and Enemies to the Common-wealth. And they have further declared and Proclaimed, That they will for ever aboliſh all Kingly-government, in <hi>England</hi> and <hi>Ireland,</hi> as chargable, unneceſſary and Tyrannicall, and in ſtead thereof will eſtabliſh an eternall Anarchy, (which they call
+<pb n="3" facs="tcp:154051:4"/>
+               <!-- PDF PAGE 61 -->a Common-wealth) perpetually enſlaving the miſerable people of thoſe Kingdomes, to the Tyrannicall wills of them and their Poſterity; and having broken the Diadems of State, and poſſeſſed themſelves of the <hi>Regalia,</hi> are now by way of ſale, ſharing all the Lands and Revenues of the Crowne, with the appurtenances among themſelves and their Favourits; Thus are they mounted to tranſcendents, not to be placed in the claſſes or Rankes of hitherto experi<g ref="char:EOLhyphen"/>enced or practiſed wickedneſſe; So that if all the Records and Chronicles ancient and Moderne, Divine &amp; prophane, were throughly ſearcht by the moſt ſcrutinous eye, and all black and dire machinations, plots and conſpiracies, either contrived or acted by Rebells and Traytours, againſt their Princes, were arithmatically caſt up, here would be found the <hi>ſumma Totalis,</hi> Rebellion and Treaſon, being now brought to the fulneſſe of perfection:</p>
+            <p>Nor are theſe Fedifragones, miſcreants contented to im<g ref="char:EOLhyphen"/>brue, and bathe their hands in the Kings bloud, but they perſecute all his relations; inriching themſelves in the ruine of his illuſtrious Queen: inforcibly withholding from her that Dowry which the King and his Councell, in conſideration of a large and vaſt Summe of Money, alloted for her maintenance: Whereby they have broak the anci<g ref="char:EOLhyphen"/>ent league between the Kingdomes, and given us faire occa<g ref="char:EOLhyphen"/>ſion in hoſtile manner, with our Armies of Horſe, and Foot, to invade that Kingdome; Nor can we conceal our deepe ſence and juſt indignation, at thoſe groſſe and ſcandalous obloquies, which they daily caſt upon the perſon and repu<g ref="char:EOLhyphen"/>tation of our deare Aunt, the Queen Dowager, by their libellous Pamphlets, thoſe Meſſengers of their Malice, which like the plagues of <hi>Aegypt</hi> reduplicated and multi<g ref="char:EOLhyphen"/>plied, they daily ſend forth, by which Aegypticall flyes, they endeavour, what in them lyeth, to cauſe the ſweet oynt<g ref="char:EOLhyphen"/>ment of her pretious name to ſtinke upon the face of the Earth; although her unparralelled vertues are ſo candid
+<pb n="4" facs="tcp:154051:5"/>
+               <!-- PDF PAGE 62 -->and general, that ſhe may without flattery be ſtiled, The <hi>Pa<g ref="char:EOLhyphen"/>ragon</hi> of Queens, the Glory and miracle of her Sex, whoſe Honour and injuries, we are bound by the bonds of nature, and affinity, to vindicate and revenge.</p>
+            <p>And that they might macerate the whole world in bloud, and ſet all Chriſtian Kingdomes into flames and com<g ref="char:EOLhyphen"/>buſtion, they have diſpacht their Incendiaries, like Locuſts into all parts of Chriſtendome, who by ſubdolous and ſlie inſinuations and pretences of popular Liberty, and freedom from Monarchicall Tyranny, endeavour to carck the bonds of protection and fealty betweene Kings and their Subjects, as they have lately done in this our Kingdome, whereby Trumpeting ſedition &amp; Rebellion in the ears of our people, they lately ſtirred them up to mutinies and inſurrections to the apparent hazard of our Royall perſon, Crowne and Dignities, which are now by Gods goodneſſe appeaſed and allayed; by which policy of dividing Kings and their Sub<g ref="char:EOLhyphen"/>jects throughout Chriſtendome, they hope to immerge all poſſibility of our ayde and aſſiſtance in reſtoring their pre<g ref="char:EOLhyphen"/>ſent Soveraigne, and eſtabliſh their hermaphroditicall Go<g ref="char:EOLhyphen"/>vernment with greater Security.</p>
+            <p>Having therefore upon very juſt grounds both of Con<g ref="char:EOLhyphen"/>ſcience and reaſon, taken theſe premiſes into our Princely conſideration, we have thought good, by the Nature and deliberate advice and conſent of the moſt illuſtrious Lady the Queen Regent our Royall Mother, and of the Princes, Prelats and Parliaments of our Kingdome, to ſtop and for<g ref="char:EOLhyphen"/>bid all trade and commerce between the Subjects of our Kingdom and that Rebellious Nation; till they ſhall return to their due obedience to their Soveraigne; and by our Royall Proclamation which we have cauſed to be publiſhed in all our Cities and Towns Corporate, within this our Kingdome of <hi>France,</hi> &amp;c. We have ſtrictly prohibited all <hi>Engliſh</hi> Wool and woollen Cloth, or any other commo<g ref="char:EOLhyphen"/>dities to be brought into this Kingdome, and we have
+<pb n="5" facs="tcp:154051:5"/>
+               <!-- PDF PAGE 62 -->thereby Commanded all Sheriffs and Mayors, Balliffs and ſubordinate Officers to make diligent ſearch in all Cities, Towns, and Ports within their ſeverall Juriſdictions, and to ſeize upon and confiſcate to our uſe, all ſuch prohibited goods as they ſhall at any time hereafter finde in any part of our Dominions, and whoſoever ſhall conceale any ſuch prohibited goods ſo in their cuſtody, and not diſcover them to the chief Magiſtrate, or ſome other ſubordinate Officer in the City, Towne or Port, where they dwell within the compaſſe of four and twenty hours, ſhall forfeit their Eſtates, and for the firſt fault, ſuffer one Years Impriſon<g ref="char:EOLhyphen"/>ment; for the ſecond, five Years; and for the Third, perpe<g ref="char:EOLhyphen"/>tuall Impriſonment without bayle or mainpriſe. And we have further by our ſaid Proclamation commanded, that no Merchant or other Subject of our Kingdome, doc export or ſuffer to be exported by any Engliſh Merchant or others, any Corn, Wine, Oyle, Skins, Nuts, Cheſnuts, Beef, Pork, or any other Merchandiſes into that Kingdome of <hi>England:</hi> and whoſoever ſhall be found offending herein, ſhall incur the penalty of High Treaſon. And we have further com<g ref="char:EOLhyphen"/>manded all Engliſhmen, of what degree or quality ſoever, not warranted and protected by the King of <hi>England,</hi> or not naturalized Den zons of this Kingdom, to depart this King<g ref="char:EOLhyphen"/>dome by the 18 of <hi>October,</hi> next enſuing the Date of that our ſaid Proclamation; and that no Engliſhman whatſoever not protected or naturalized as aforeſaid doe preſume to re<g ref="char:EOLhyphen"/>maine in any part of our Dominions, upon paine of being executed, as Spies, Enemies and Traytours, to this our Kingdome: And it ſhall be High Treaſon for any Subject of this our Kingdome, to conceal or harbour within their Houſes any Engliſhman, not protected and naturalized as aforeſaid, and not diſcover the ſaid perſon to ſome Magi<g ref="char:EOLhyphen"/>ſtrate or Juſtice of Peace within four and twenty Houres.</p>
+            <p>And conceiving our ſelves bound both as a Chriſtian and a King, by the bonds of Religion and Nature, and the
+<pb n="6" facs="tcp:154051:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 63 -->long continued League between the Kingdomes, to revenge the barbarous murder of the late King of <hi>England,</hi> of glorious memory, to repaire the injuries of our Royall Aunt, his Queen Dowager, and to reſtore King <hi>Charls</hi> the Second our Coſin, to the Thrones of his Kingdomes, and ſubdue his People to his obedience, we have Iſſued forth our Royall Commiſſion under the greate Seale of our Kingdome, whereby we have authorized our Right truſty and welbe<g ref="char:EOLhyphen"/>loved Coſin the Count of Saint <hi>Paul,</hi> to raiſe eight Regi<g ref="char:EOLhyphen"/>ments of Horſe, and twelve of Foot, each horſe Regiment to conſiſt of eight hundred, and the Foot of a thouſand; and of our owne Free will and princely grace, we are pleaſed to advance two yeares pay out of our Royall treaſury: and to furniſh the ſaid Count of Saint <hi>Paul,</hi> with a traine of Ar<g ref="char:EOLhyphen"/>tillery, and all other neceſſaries for martiall imployment; and have ſtreightly commanded the ſaid Count and all other Officers, and Souldiers of that Army, faithfully and obediently to obſerve all ſuch commands, as they ſhall from time to time receive from our moſt intirely beloved Coſin the King of <hi>England:</hi> and that they be ready to en<g ref="char:EOLhyphen"/>ter any part his Majeſties Dominions, as ſhall be thought moſt neceſſary by the ſaid King and his Councell, and there to joyne with any of his Majeſties Armies, and to fight with, kill and ſlay all that they ſhall finde in Rebellion a<g ref="char:EOLhyphen"/>gainſt his ſaid Majeſty: And foraſmuch as all Chriſtian Kings are concerned herein, we have thought good to pub<g ref="char:EOLhyphen"/>liſh this our Declaration, which we have cauſed to be tranſlated into all Languages, that all the Kings and Princes of Chriſtendome may take notice of our proceedings, and after our example, may contribute their utmoſt power and aſſiſtance for the reſtoring that injured King to his Domini<g ref="char:EOLhyphen"/>ons, and reducing his Subjects to his obedience.</p>
+            <closer>
+               <dateline>Given at our Court at <hi>Paris,</hi>
+                  <date>
+                     <hi>September</hi> 2<hi rend="sup">d</hi>. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
